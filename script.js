@@ -176,7 +176,206 @@ document.addEventListener("DOMContentLoaded", function () {
           alt:
             "Sulfamethoxazole/trimethoprim 20 mg/kg/day"
         }
-      }
+      }, 
+
+      bacillus: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      acinetobacter_calcoaceticus_baumannii_complex: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      enterobacteriaceae_morganellaceae: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      salmonella: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      serratia: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      haemophilus_influenzae: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      neisseria_meningitidis: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      stenotrophomonas_maltophilia: {
+        na: {
+          rec:
+            "Information being updated ",
+          alt:
+            "Information being updated "
+        }
+      },
+
+      candida_albicans: {
+        na: {
+          rec:
+            "Information being updated ",
+          alt:
+            "Information being updated "
+        }
+      },
+
+      candida_auris: {
+        na: {
+          rec:
+            "Information being updated ",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      candida_dubliniensis: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      candida_famata: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      candida_glabrata: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      candida_guilliermondii: {
+        na: {
+          rec:
+            "Information being updated ",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      candida_kefyr: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      candida_krusei: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      candida_lipytica: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      candida_lusitaniae: {
+        na: {
+          rec:
+            "Information being updated ",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      candida_parapsilosis: {
+        na: {
+          rec:
+            "Information being updated ",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      candida_tropicalis: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      cryptococcus_neoformans: {
+        na: {
+          rec:
+            "Information being updated",
+          alt:
+            "Information being updated"
+        }
+      },
+
+      cryptococcus_gattii: {
+        na: {
+          rec:
+            "Information being updated ",
+          alt:
+            "Information being updated"
+        }
+      },
+
     };
 
     const clusterData = BSI_DATA[clusterId] || {};
